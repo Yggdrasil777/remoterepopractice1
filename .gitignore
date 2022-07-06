@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.DS_Store
+
+# file that contains test users password from Jonathan's local
+mysecret.txt
